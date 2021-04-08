@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UI.ProductsListActivity">
+
+    <Button
+        android:id="@+id/add_product_button_listprodcuts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/buttonstyleithgradient"
+        android:drawableLeft="@drawable/ic_add"
+        android:paddingStart="80dp"
+        android:paddingLeft="80dp"
+        android:paddingEnd="80dp"
+        android:text="Agregar  Producto"
+        android:textColor="@color/md_black_1000"
+        android:visibility="visible" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/products_list_rc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/add_product_button_listprodcuts" />
+
+</RelativeLayout>

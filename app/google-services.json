@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235416224353",
+    "firebase_url": "https://proyprogram-default-rtdb.firebaseio.com",
+    "project_id": "proyprogram",
+    "storage_bucket": "proyprogram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235416224353:android:9c7f33836c27a1c85c6020",
+        "android_client_info": {
+          "package_name": "com.classroom.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235416224353-70e0oc9dhgefrsuv5kmnn73tr5ei7csr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.classroom.app1",
+            "certificate_hash": "8b80280298c6969da7a532c1f9fa02db938e1809"
+          }
+        },
+        {
+          "client_id": "235416224353-6fvbb14scbqg6vio7ublft0kkcu91ika.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0b9NG4El0T_3VkT6boAHUvH7Muk3j9Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235416224353-6fvbb14scbqg6vio7ublft0kkcu91ika.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
