@@ -24,14 +24,5 @@ After graduating my master degree I wanted to share the application I've made to
 | Glide | [/bumptech/glide][glidelib] |
 | Android-Image-Slider | [/smarteist/android-image-slider][sliderlib] |
 
-### Developed By:
-Karimi Amine  
-Contact me on : [facebook] 
 
-
-[facebook]: <https://www.facebook.com/amine.karimiii>
-[fbl]: <https://github.com/medyo/Fancybuttons>
-[circularimg]: <https://github.com/hdodenhof/CircleImageView>
-[glidelib]: <https://github.com/bumptech/glide>
-[sliderlib]: <https://github.com/smarteist/android-image-slider>
 
